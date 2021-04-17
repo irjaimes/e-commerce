@@ -37,5 +37,5 @@ Idzel Jaimes
 
 ### Questions
 For any questions, please feel free to contact me.
-  * Github Username: [irjaimes](https://github.com/irjaimes/readme-gen)
+  * Github Username: [irjaimes](https://github.com/irjaimes/e-commerce)
   * Email : irjaimes@outlook.com
